@@ -1,0 +1,8 @@
+{
+	"description": "TypeScript definitions for marklogic-unit-test",
+	"name": "marklogic-unit-test",
+	"version": "0.0.1-alpha",
+	"dependencies": {
+		"marklogic-server-typescript-definitions": "git+https://github.com/wgehring-ml/MarkLogic-Server-types.git"
+	}
+}
