@@ -1,5 +1,5 @@
 // deno-lint-ignore-file ban-types
-/// <reference path="../MarkLogic-Server/index.d.ts" />
+/// <reference path="./node_modules/marklogic-server-typescript-definitions/index.d.ts" />
 
 declare module 'test' {
 	global {
